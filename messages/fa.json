@@ -1,0 +1,16 @@
+{
+  "Index": {
+    "title": "سلام دنیا"
+  },
+  "Common": {
+    "login": "ورود",
+    "Required": "Required",
+    "Invalid email address": "Invalid email address",
+    "Network response was not ok": "پاسخ درست از سرور دریافت نشد",
+    "Mobile": "موبایل"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, es {Spanish} 🇺🇸 {English} ar {Arabic} fa {فارسی} az {Azerbaijani} tr {Turkish} ru {Russian} other {English}}"
+  }
+}
